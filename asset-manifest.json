@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/i_heart_books/static/css/main.a13d3d6a.chunk.css",
+    "main.js": "/i_heart_books/static/js/main.d03ea218.chunk.js",
+    "main.js.map": "/i_heart_books/static/js/main.d03ea218.chunk.js.map",
+    "runtime-main.js": "/i_heart_books/static/js/runtime-main.569fab2e.js",
+    "runtime-main.js.map": "/i_heart_books/static/js/runtime-main.569fab2e.js.map",
+    "static/css/2.69121389.chunk.css": "/i_heart_books/static/css/2.69121389.chunk.css",
+    "static/js/2.a157914c.chunk.js": "/i_heart_books/static/js/2.a157914c.chunk.js",
+    "static/js/2.a157914c.chunk.js.map": "/i_heart_books/static/js/2.a157914c.chunk.js.map",
+    "index.html": "/i_heart_books/index.html",
+    "precache-manifest.cb281e97f77a319909500fab2f59ced1.js": "/i_heart_books/precache-manifest.cb281e97f77a319909500fab2f59ced1.js",
+    "service-worker.js": "/i_heart_books/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/i_heart_books/static/css/2.69121389.chunk.css.map",
+    "static/css/main.a13d3d6a.chunk.css.map": "/i_heart_books/static/css/main.a13d3d6a.chunk.css.map",
+    "static/js/2.a157914c.chunk.js.LICENSE.txt": "/i_heart_books/static/js/2.a157914c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.569fab2e.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.a157914c.chunk.js",
+    "static/css/main.a13d3d6a.chunk.css",
+    "static/js/main.d03ea218.chunk.js"
+  ]
+}
